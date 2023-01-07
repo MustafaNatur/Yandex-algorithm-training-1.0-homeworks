@@ -2,11 +2,27 @@
 // If there are several such words, output the one that is smaller in lexicographic order.
 
 
-// This solution does not work when entering several lines one after the other via new line character
 import Foundation
-let input = readLine()!
+func read(_ path:String)->String {
 
-let arr = input.components(separatedBy: [" ", "\n"]).filter{$0 != ""}
+	var input = ""
+    
+	guard let file = freopen(path, "r", stdin) else {return ""}
+    
+	defer {
+		fclose(file)
+	}
+
+	while let line = readLine() {
+    	input+=line + " "
+	}
+    
+	return input
+}
+
+var input = read("input.txt")
+
+let arr = input.components(separatedBy: " ").filter{$0 != ""}
 
 let d = arr.reduce(into: [:]) { dic, v in dic[v, default: 0] += 1}
 
