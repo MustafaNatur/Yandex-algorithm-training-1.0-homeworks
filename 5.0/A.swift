@@ -8,7 +8,7 @@
 // Нelp Gleb choose one T-shirt and one pair of pants so that the difference
 // in their color is as small as possible.
 
-
+//https://contest.yandex.ru/contest/27794/problems/A/
 
 mport Foundation
 
@@ -23,6 +23,7 @@ var ansb=0
 var minimum=abs(a[0]-b[0])
 
 while (i < n && j < m) {
+
     if abs(a[i]-b[j])==0{
         ansa = i
         ansb = j
@@ -40,5 +41,6 @@ while (i < n && j < m) {
     } else { 
         j+=1
     }
+    
 }
 print(a[ansa],b[ansb])
