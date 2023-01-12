@@ -1,8 +1,3 @@
-// To build a two-dimensional pyramid, use rectangular blocks, each of the exits to the conference and the height.
-// You can put one block on top of another only if the width of the top of the block is absolutely excluded (blocks cannot be rotated).
-// The lowest one in the pyramid can be blocked by anyone.
-// Given a set of specific blocks, what is the highest pyramid that can be built from them.
-
 var d = [Int:Int]()
 
 let n = Int(readLine()!)!

@@ -1,11 +1,3 @@
-Given a database of sales of some online store. 
-//  Each line of the input file is a record of the form Buyer product quantity,
-//  where Buyer is the name of the buyer (string without spaces), 
-//  product is the name of the product (string without spaces), 
-//  quantity is the number of purchased units of the product. 
-//  Create a list of all customers, and for each customer, 
-//  count the number of units of each item they purchased.
-
 import Foundation
 
 var d = [String:[String:Int]]()

@@ -1,7 +1,3 @@
-// The text is given. Print the word that occurs most often in this text. 
-// If there are several such words, output the one that is smaller in lexicographic order.
-
-
 import Foundation
 func read(_ path:String)->String {
 
