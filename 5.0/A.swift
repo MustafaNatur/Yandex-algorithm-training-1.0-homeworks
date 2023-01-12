@@ -1,16 +1,4 @@
-// Gleb loves shopping. Once he caught fire with the idea to pick up a T-shirt and pants so
-// as to look as stylish as possible in them. In Gleb's understanding,
-// the stylishness of clothes is the greater, the smaller the difference
-// in the color of the elements of his clothes.
-
-// There are N (1 ≤ N ≤ 100 000) T-shirts and M (1 ≤ M ≤ 100 000) pants,
-// about each element its color is known (an integer from 1 to 10 000 000).
-// Нelp Gleb choose one T-shirt and one pair of pants so that the difference
-// in their color is as small as possible.
-
-//https://contest.yandex.ru/contest/27794/problems/A/
-
-mport Foundation
+import Foundation
 
 let n=Int(readLine()!)!
 let a=readLine()!.split(separator: " ").map{Int($0)!}
