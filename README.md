@@ -17,18 +17,30 @@ In this repository, I post my solutions to the homework of the project from the 
 ## Complexity, testing, special cases
 |  #  | Title           |  Solution       |  Status         |
 |-----|---------------- | --------------- | --------------- |
-A | [Conditioner](https://leetcode.com/problems/binary-search/?envType=study-plan&id=algorithm-i)(https://contest.yandex.ru/contest/27393/problems/A/)) | [Swift](./1.0/A.swift)| Easy ||
+A | [Conditioner](https://contest.yandex.ru/contest/27393/problems/A/) | [Swift](./1.0/A.swift)| Easy ||
+B | [Triangle](https://contest.yandex.ru/contest/27393/problems/B/) | [Swift](./1.0/B.swift)| Easy ||
+C | [Phone numbers](https://contest.yandex.ru/contest/27393/problems/C/) | [Swift](./1.0/C.swift)| Easy ||
+D | [The equation with the root](https://contest.yandex.ru/contest/27393/problems/D/) | [Swift](./1.0/D.swift)| Easy ||
+E | [Ambulance](https://contest.yandex.ru/contest/27393/problems/E/) | [Swift](./1.0/E.swift)| Easy ||
+F | [Arrangement of laptops](https://contest.yandex.ru/contest/27393/problems/F/) | [Swift](./1.0/F.swift)| Easy ||
+G | [Details](https://contest.yandex.ru/contest/27393/problems/G/) | [Swift](./1.0/G.swift)| Easy ||
+H | [Metro](https://contest.yandex.ru/contest/27393/problems/H/) | [Swift](./1.0/H.swift)| Easy ||
+I | [Prisoner of the castle If](https://contest.yandex.ru/contest/27393/problems/I/) | [Swift](./1.0/I.swift)| Easy ||
+J | [System of linear equations](https://contest.yandex.ru/contest/27393/problems/J/) | [Swift](./1.0/J.swift)| Easy ||
 
-
-## Two Pointers
-|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    |
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |
-977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/?envType=study-plan&id=algorithm-i) | [C++](./C++/Squares_of_a_Sorted_Array.cpp) [Swift](./Swift/Squares_of_a_Sorted_Array.swift)| _O(n)_ | _O(1)_ | Easy ||
-189 | [Rotate Array](https://leetcode.com/problems/rotate-array/?envType=study-plan&id=algorithm-i) | [C++](./C++/Rotate_Array.cpp) [Swift](./Swift/Rotate_Array.swift)| _O(n)_ | _O(1)_ | Medium ||
-283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/?envType=study-plan&id=algorithm-i) | [C++](./C++/Move_Zeroes.cpp) [Swift](./Swift/Move_Zeroes.swift)| _O(n)_ | _O(1)_ | Easy ||
-167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/move-zeroes/?envType=study-plan&id=algorithm-i) | [C++](./C++/Two_Sum_II_-_Input_Array_Is_Sorted.cpp) [Swift](./Swift/Two_Sum_II_-_Input_Array_Is_Sorted.swift)| _O(n)_ | _O(1)_ | Medium ||
-344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./C++/Reverse_String.cpp) [Swift](./Swift/Reverse_String.swift)| _O(n)_ | _O(1)_ | Easy ||
-557 | [Revesre Worlds in a String](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [C++](./C++/Reverse_Words_in_a_String.cpp) [Swift](./Swift/Reverse_Words_in_a_String.swift)| _O(n)_ | _O(n)_ | Easy ||
+## Linear search
+|  #  | Title           |  Solution       |  Status         |
+|-----|---------------- | --------------- | --------------- |
+A | [Is the list growing?](https://contest.yandex.ru/contest/27472/problems/A/) | [Swift](./2.0/A.swift)| Easy ||
+B | [Triangle](https://contest.yandex.ru/contest/27393/problems/B/) | [Swift](./2.0/B.swift)| Easy ||
+C | [The nearest number](https://contest.yandex.ru/contest/27393/problems/C/) | [Swift](./2.0/C.swift)| Easy ||
+D | [The equation with the root](https://contest.yandex.ru/contest/27393/problems/D/) | [Swift](./2.0/D.swift)| Easy ||
+E | [Cowcake Throwing Championship](https://contest.yandex.ru/contest/27393/problems/E/) | [Swift](./2.0/E.swift)| Easy ||
+F | [Symmetric sequence](https://contest.yandex.ru/contest/27393/problems/F/) | [Swift](./2.0/F.swift)| Easy ||
+G | [The largest product of two numbers](https://contest.yandex.ru/contest/27393/problems/G/) | [Swift](./2.0/G.swift)| Easy ||
+H | [The largest product of three numbers](https://contest.yandex.ru/contest/27393/problems/H/) | [Swift](./2.0/H.swift)| Easy ||
+I | [Sapper](https://contest.yandex.ru/contest/27393/problems/I/) | [Swift](./2.0/I.swift)| Easy ||
+J | [Maxim 's Triangle](https://contest.yandex.ru/contest/27393/problems/J/) | [Swift](./2.0/J.swift)| Easy ||
 
 
 
