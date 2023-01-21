@@ -44,8 +44,17 @@ J | [Maxim 's Triangle](https://contest.yandex.ru/contest/27393/problems/J/) | [
 
 
 
-## Sliding Window
-|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    |
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |
-003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=study-plan&id=algorithm-i) | [C++](./C++/Longest_Substring_Without_Repeating_Characters.cpp) [Swift](./Swift/Longest_Substring_Without_Repeating_Characters.swift)| _O(n)_ | _O(n)_ | Medium ||
-567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/?envType=study-plan&id=algorithm-i) | [C++](./C++/Permutation_in_String.cpp) [Swift](./Swift/Permutation_in_String.swift)| _O(n)_ | _O(n)_ | Medium ||
+## Sets
+|  #  | Title           |  Solution       |  Status         |
+|-----|---------------- | --------------- | --------------- |
+A | [Number of different numbers](https://contest.yandex.ru/contest/27663/problems/A/) | [Swift](./3.0/A.swift)| Easy ||
+B | [Пересечение множеств](https://contest.yandex.ru/contest/27393/problems/B/) | [Swift](./3.0/B.swift)| Easy ||
+C | [Кубики](https://contest.yandex.ru/contest/27663/problems/C/) | [Swift](./3.0/C.swift)| Easy ||
+D | [Количество слов в тексте](https://contest.yandex.ru/contest/27663/problems/D/) | [Swift](./3.0/D.swift)| Easy ||
+E | [OpenCalculator](https://contest.yandex.ru/contest/27663/problems/E/) | [Swift](./3.0/E.swift)| Easy ||
+F | [Инопланетный геном](https://contest.yandex.ru/contest/27663/problems/F/) | [Swift](./3.0/F.swift)| Easy ||
+G | [Черепахи](https://contest.yandex.ru/contest/27663/problems/G/) | [Swift](./3.0/G.swift)| Easy ||
+H | [Злые свинки](https://contest.yandex.ru/contest/27663/problems/H/) | [Swift](./3.0/H.swift)| Easy ||
+I | [Полиглоты](https://contest.yandex.ru/contest/27663/problems/I/) | [Swift](./3.0/I.swift)| Easy ||
+J | [Пробежки по Манхэттену](https://contest.yandex.ru/contest/27663/problems/J/) | [Swift](./3.0/J.swift)| Easy ||
+
